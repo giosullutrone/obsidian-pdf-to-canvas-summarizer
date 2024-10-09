@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-pdf-to-canvas-summarizer",
+	"name": "obsidian-pdf-to-canvas-summarizer",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "obsidian-pdf-to-canvas-summarizer.",
+	"author": "giosullutrone",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
